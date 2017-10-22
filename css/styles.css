@@ -1,0 +1,40 @@
+.box {
+	width: 900px;
+	margin: 0 auto;
+}
+.f {
+	border-radius: 7px;
+	padding: 15px;
+	background-color: white;
+	width: 650px;
+
+}
+.sect {
+	border-radius: 7px;
+	padding: 15px;
+	background-color: white;
+	float: left;
+	width: 650px;
+}
+main {
+	float: left;
+	width: 650px;
+}
+.lin {
+	border-bottom: 1px solid lightgrey;
+	width: 200px;
+}
+.p1 {
+	width: 170px;
+	float: left;
+	vertical-align: center;
+}
+.p2 {
+	width: auto;
+	padding-left: 250px;
+	
+}
+.sb {
+	width: 200px;
+	float: right;
+}
